@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.autoSave": "off",
+    "html.format.indentInnerHtml": true,
+    "css.validate": true,
+    "javascript.validate.enable": true
+}
